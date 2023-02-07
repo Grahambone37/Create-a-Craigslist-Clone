@@ -1,5 +1,5 @@
 // Import data
-
+import React from 'react'
 // Import components
 import './App.css';
 
