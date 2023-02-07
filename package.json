@@ -34,17 +34,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "You will be building a light craigslist clone!",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Grahambone37/Create-a-Craigslist-Clone.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Grahambone37/Create-a-Craigslist-Clone/issues"
-  },
-  "homepage": "."
+  }
 }
